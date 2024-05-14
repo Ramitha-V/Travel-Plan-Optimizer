@@ -1,8 +1,8 @@
-# Trip Planner Program
+# Travel Plan Optimiser
 
 ## Overview
 
-The Trip Planner Program is designed to simplify the process of travel planning for individuals by allowing them to create detailed itineraries. It enables users to input various destinations, allocate days and budgets, and specify activities within each destination. The program manages these inputs to ensure the plan remains within the user's budget and timeframe. It also presents the travel plan in an organized manner and provides warnings for any issues with the plan.
+The Travel Plan Optimiser is designed to simplify the process of travel planning for individuals by allowing them to create detailed itineraries. It enables users to input various destinations, allocate days and budgets, and specify activities within each destination. The program manages these inputs to ensure the plan remains within the user's budget and timeframe. It also presents the travel plan in an organized manner and provides warnings for any issues with the plan.
 
 ## Motivation
 
@@ -19,6 +19,7 @@ Travel planning can be complex, involving decisions about destinations, duration
 - Provide warnings for issues such as remaining cost with no days left or remaining days with no budget left.
 
 ## Flow Chart
+![image](https://github.com/Ramitha-V/Travel-Plan-Optimizer-/assets/162662008/2b334b5e-11fe-4085-ae39-0fa26a640da9)
 
 
 ## Edge Cases Handled
