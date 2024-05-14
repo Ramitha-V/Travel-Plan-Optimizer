@@ -43,3 +43,8 @@ Travel planning can be complex, involving decisions about destinations, duration
 3. Run the program: `python trip_planner.py`
 4. Follow the on-screen instructions to input destination details and activities.
 
+## Link to Project Demo
+
+## Know More About Travel Plan Optimiser
+https://www.canva.com/design/DAFyVMmxvEw/wmd6LENlt1MJsCq80Z8F8w/edit?utm_content=DAFyVMmxvEw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
