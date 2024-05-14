@@ -36,12 +36,6 @@ Travel planning can be complex, involving decisions about destinations, duration
 - **Symbol Table:** Stores destination information for fast lookup by name.
 - **AVL Tree:** Each node represents a destination with activities as children nodes. Allows for alphabetical sorting of destinations and activities.
 
-## Usage
-
-1. Clone the repository: `git clone https://github.com/your_username/trip-planner.git`
-2. Navigate to the project directory: `cd trip-planner`
-3. Run the program: `python trip_planner.py`
-4. Follow the on-screen instructions to input destination details and activities.
 
 ## Link to Project Demo
 https://github.com/Ramitha-V/Travel-Plan-Optimizer-/assets/162662008/2a2bb0ca-c19d-4c80-9499-cae6c78633c7
