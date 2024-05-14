@@ -44,7 +44,7 @@ Travel planning can be complex, involving decisions about destinations, duration
 4. Follow the on-screen instructions to input destination details and activities.
 
 ## Link to Project Demo
-https://www.kapwing.com/w/Mifp3lEGmE
+https://github.com/Ramitha-V/Travel-Plan-Optimizer-/assets/162662008/2a2bb0ca-c19d-4c80-9499-cae6c78633c7
 
 ## Know More About Travel Plan Optimiser
 https://www.canva.com/design/DAFyVMmxvEw/wmd6LENlt1MJsCq80Z8F8w/edit?utm_content=DAFyVMmxvEw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
